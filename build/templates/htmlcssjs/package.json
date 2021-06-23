@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "build:css": "npx tailwindcss build main.css -o tailwind.css"
+  },
+  "private": true,
+  "license": "MIT"
+}
