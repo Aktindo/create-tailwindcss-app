@@ -1,6 +1,6 @@
 {
   "name": "create-tailwindcss-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A CLI to bootstrap different types of tailwindcss apps!",
   "main": "build/index.js",
   "bin": "build/index.js",
